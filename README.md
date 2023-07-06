@@ -24,16 +24,27 @@ ID: ID Number of Customers.
 
 ## Importing Libraries and load Data
 
-##  Explanatory Data Analysis
+##  Preliminary Data Analysis 
 
-## Data Preprocessing
+## Data Cleaning
 
-## label encoding
+## Univariate analysis of Categorical Features
 
-## Vectorizations 
+## Univariate Analysis of Numerical Features
 
-## Create and transform features 
+## Outlier Detection and removal
 
-## Select 2 algorithms and build 2 models 
+## Data Preprocessing and Feature Engineering
 
-## Cross Validation for Models
+## Split the data 
+
+## Implement one machine learning algorithm (LogisticRegression) and calculate the accuracy
+
+## Implement neural network model with one hidden layer
+
+## Implement the same model by adding more hidden layer
+
+## Lost and accuracy evaluation
+
+## Comparision of logistic Regression and first artificial neural network:
+
